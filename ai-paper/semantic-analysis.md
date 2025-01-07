@@ -71,3 +71,14 @@ Jupiter AI was unhelpful because it did not work. chatgpt was slightly helpful b
 
 #### **Summary**
 The integration of AI coding assistance in this course was largely perceived as beneficial, particularly for problem-solving, debugging, and project planning. However, concerns about over-reliance, inconsistent tool performance, and gaps in foundational learning highlight the importance of deliberate and balanced implementation. Addressing these challenges will ensure that AI tools complement, rather than replace, critical thinking and independent problem-solving skills.
+
+
+#### Figure
+
+![image](https://github.com/user-attachments/assets/dadfa29f-2097-430d-ab1e-36af9863072f)
+
+
+Figure Analysis:
+This figure summarizes student responses to the survey question: "How has the integration of AI coding assistance, such as Jupyter AI or ChatGPT, impacted your learning experience in the course, both positively and negatively?" The responses were semantically analyzed and categorized into nine distinct themes, divided into positive and negative perceptions. Positive themes include support in problem solving, error diagnosis and debugging, efficiency and time management, building project structures, and independence in learning. These highlight how AI tools facilitated learning, with problem solving being the most frequently mentioned benefit. Negative themes, such as over-reliance on AI, inconsistency in performance, complexity of AI responses, and gaps in addressing learning needs, reflect challenges students encountered, particularly in maintaining foundational understanding and addressing advanced or nuanced tasks. The balanced representation of positive and negative aspects underscores the dual role of AI: a valuable learning tool with limitations that require careful integration into the curriculum. This visualization provides actionable insights to refine AI-assisted education by leveraging its strengths and mitigating potential drawbacks.
+
+
