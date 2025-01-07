@@ -4,10 +4,10 @@
 Provide semantic analysis for these student reponses:
 
 "9) AI Coding Assistance:  
-**How has the integration of AI coding assistance, such as Jupyter AI or ChatGPt, impacted your learning experience in the course, both positively and negatively?"
-It was good to me! I like having a back up help when I can not resolver problems.*** 
+**How has the integration of AI coding assistance, such as Jupyter AI or ChatGPt, impacted your learning experience in the course, both positively and negatively?"**   
 
 
+It was good to me! I like having a back up help when I can not resolver problems.   
 
 I believe it helps me solve problems and makes the class seem more helpful, instead of learning to past a test we are actually learning to solve problems.   
 
