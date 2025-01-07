@@ -5,18 +5,30 @@ Provide semantic analysis for these student reponses:
 
 "9) AI Coding Assistance:  
 How has the integration of AI coding assistance, such as Jupyter AI or ChatGPt, impacted your learning experience in the course, both positively and negatively?"
-It was good to me! I like having a back up help when I can not resolver problems. 
-I believe it helps me solve problems and makes the class seem more helpful, instead of learning to past a test we are actually learning to solve problems.
-I used ChatGPT a lot in this course. I am disappointed that Jupyter AI did not work as well for me. I feel like while I am using ChatGPT I am not learning as much as I could, so I wish I had a stronger foundation without it instead of heavily relying on it. 
-The use of LLM has been helpful but also lackluster as sometimes the LLM model is not structured to assist with certain things that I would need to be fixed.
-It has helped a lot, I actually think more time allotted to AI coding assistance would have been an efficient use of time and would allow for less time to be focused on Pandas/NumPy/Xarray
-AI coding assistance has helped me build the skeleton of my project and assisted me during homework problems.
-It has allowed me to understand topics without seeking assistance first.
+It was good to me! I like having a back up help when I can not resolver problems.    
+
+I believe it helps me solve problems and makes the class seem more helpful, instead of learning to past a test we are actually learning to solve problems.   
+
+I used ChatGPT a lot in this course. I am disappointed that Jupyter AI did not work as well for me. I feel like while I am using ChatGPT I am not learning as much as I could, so I wish I had a stronger foundation without it instead of heavily relying on it.    
+
+The use of LLM has been helpful but also lackluster as sometimes the LLM model is not structured to assist with certain things that I would need to be fixed.    
+
+It has helped a lot, I actually think more time allotted to AI coding assistance would have been an efficient use of time and would allow for less time to be focused on Pandas/NumPy/Xarray   
+
+AI coding assistance has helped me build the skeleton of my project and assisted me during homework problems.    
+
+It has allowed me to understand topics without seeking assistance first.    
+
 Negatively, it does not really help me much when I am learning extremely hard codes, and the AI give me complicated results, but the rest is positive for basic simple code. 
-It has positively impacted learning by helping me diagnose errors when other resources, such as stack exchange and github forums, are unclear. 
-Helped.
-It helped me dive into the errors and understand why I was getting them and how to fix them.
-Jupiter AI was unhelpful because it did not work. chatgpt was slightly helpful but it would be bad if i became too reliant on it 
+It has positively impacted learning by helping me diagnose errors when other resources, such as stack exchange and github forums, are unclear.     
+
+Helped.    
+
+It helped me dive into the errors and understand why I was getting them and how to fix them.    
+
+Jupiter AI was unhelpful because it did not work. chatgpt was slightly helpful but it would be bad if i became too reliant on it    
+
+
 
 
 #### **Positive Themes**
