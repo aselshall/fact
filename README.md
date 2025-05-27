@@ -1,7 +1,7 @@
-# fact
-Balancing AI-assisted projects and traditional assessment: The FACT assessment in environmental data science education   
+# FACT
+Supporting material for "Balancing AI-assisted learning and traditional assessment: The FACT assessment in environmental data science education"
 
-### Important Links:
+### Useful links
 These are direct link materials cited in the paper:
 - Syllabus: [Link](https://aselshall.github.io/eds/)
 - Student project can be found at the project assignment: [Link](https://aselshall.github.io/eds/HW/project#5-student-projects)
