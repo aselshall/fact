@@ -1,8 +1,11 @@
 # FACT
 Supporting material for "Balancing AI-assisted learning and traditional assessment: The FACT assessment in environmental data science education"
 
+### Data
+Check the above folder for raw data and Python codes for data processing. 
+
 ### Useful links
-These are direct link materials cited in the paper:
+These are direct links to materials cited in the paper:
 - Syllabus: [Link](https://aselshall.github.io/eds/)
 - Student project can be found at the project assignment: [Link](https://aselshall.github.io/eds/HW/project#5-student-projects)
 - Project assignment: [Link](https://aselshall.github.io/eds/HW/project)
