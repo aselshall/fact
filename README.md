@@ -2,7 +2,7 @@
 Supporting material for "Balancing AI-assisted learning and traditional assessment: The FACT assessment in environmental data science education"
 
 ### Data
-Check the above folder for raw data and Python codes for data processing. 
+Check the above folder `ai-paper` for raw data and Python codes for data processing. 
 
 ### Useful links
 These are direct links to materials cited in the paper:
